@@ -51,7 +51,7 @@ Command `npx knex seed:run` spustí všechny seed soubory umístěné ve složce
 
 ## Ukázka složitějšího seed souboru
 Jedna se o example blog aplikaci a vygenerování náhodných dat. Pro generovani nahodnych dat používám [faker](https://www.npmjs.com/package/faker)
-```
+```javascript
 const R = require('ramda')
 const faker = require('faker')
 faker.locale = 'cs'
