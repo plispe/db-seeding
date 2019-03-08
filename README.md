@@ -1,5 +1,5 @@
 # db-seeding
-Docasny navod na db seeding
+Dočasny návod na db seeding
 
 # Db seeding
 
